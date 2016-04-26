@@ -52,7 +52,7 @@ Partial Class MainForm
         Me.questionNumLabel.AutoSize = True
         Me.questionNumLabel.Location = New System.Drawing.Point(12, 32)
         Me.questionNumLabel.Name = "questionNumLabel"
-        Me.questionNumLabel.Size = New System.Drawing.Size(74, 17)
+        Me.questionNumLabel.Size = New System.Drawing.Size(186, 45)
         Me.questionNumLabel.TabIndex = 6
         Me.questionNumLabel.Text = "Question 1:"
         '
@@ -127,7 +127,7 @@ Partial Class MainForm
         Me.aRadioButton.Checked = True
         Me.aRadioButton.Location = New System.Drawing.Point(15, 128)
         Me.aRadioButton.Name = "aRadioButton"
-        Me.aRadioButton.Size = New System.Drawing.Size(34, 21)
+        Me.aRadioButton.Size = New System.Drawing.Size(78, 49)
         Me.aRadioButton.TabIndex = 8
         Me.aRadioButton.TabStop = True
         Me.aRadioButton.Text = "A"
@@ -138,7 +138,7 @@ Partial Class MainForm
         Me.bRadioButton.AutoSize = True
         Me.bRadioButton.Location = New System.Drawing.Point(15, 180)
         Me.bRadioButton.Name = "bRadioButton"
-        Me.bRadioButton.Size = New System.Drawing.Size(33, 21)
+        Me.bRadioButton.Size = New System.Drawing.Size(76, 49)
         Me.bRadioButton.TabIndex = 10
         Me.bRadioButton.Text = "B"
         Me.bRadioButton.UseVisualStyleBackColor = True
@@ -148,7 +148,7 @@ Partial Class MainForm
         Me.cRadioButton.AutoSize = True
         Me.cRadioButton.Location = New System.Drawing.Point(14, 232)
         Me.cRadioButton.Name = "cRadioButton"
-        Me.cRadioButton.Size = New System.Drawing.Size(34, 21)
+        Me.cRadioButton.Size = New System.Drawing.Size(77, 49)
         Me.cRadioButton.TabIndex = 12
         Me.cRadioButton.Text = "C"
         Me.cRadioButton.UseVisualStyleBackColor = True
@@ -158,7 +158,7 @@ Partial Class MainForm
         Me.dRadioButton.AutoSize = True
         Me.dRadioButton.Location = New System.Drawing.Point(15, 284)
         Me.dRadioButton.Name = "dRadioButton"
-        Me.dRadioButton.Size = New System.Drawing.Size(35, 21)
+        Me.dRadioButton.Size = New System.Drawing.Size(80, 49)
         Me.dRadioButton.TabIndex = 14
         Me.dRadioButton.Text = "D"
         Me.dRadioButton.UseVisualStyleBackColor = True
@@ -229,7 +229,7 @@ Partial Class MainForm
         '
         'MainForm
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 17.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(18.0!, 45.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(707, 400)
         Me.Controls.Add(Me.exitButton)

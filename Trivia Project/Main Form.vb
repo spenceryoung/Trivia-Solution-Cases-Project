@@ -15,6 +15,14 @@ Public Class MainForm
 
     End Sub
 
+    Private Sub previousButton_Click(sender As Object, e As EventArgs) Handles previousButton.Click
+        TblGameBindingSource.MovePrevious()
+    End Sub
+
+    Private Sub nextButton_Click(sender As Object, e As EventArgs) Handles nextButton.Click
+        TblGameBindingSource.MoveNext()
+    End Sub
+
     Private Sub submitButton_Click(sender As Object, e As EventArgs)
         ' determines whether the user's answer is correct
         ' and the number of incorrect answers
@@ -56,9 +64,5 @@ Public Class MainForm
 
     Private Sub exitButton_Click(sender As Object, e As EventArgs)
         Me.Close()
-    End Sub
-
-    Private Sub TblGameBindingSource_CurrentChanged(sender As Object, e As EventArgs)
-
     End Sub
 End Class
