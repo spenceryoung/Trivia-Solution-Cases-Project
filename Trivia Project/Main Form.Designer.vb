@@ -130,7 +130,7 @@ Partial Class MainForm
         Me.aRadioButton.Size = New System.Drawing.Size(78, 49)
         Me.aRadioButton.TabIndex = 8
         Me.aRadioButton.TabStop = True
-        Me.aRadioButton.Text = "A"
+        Me.aRadioButton.Text = "&A"
         Me.aRadioButton.UseVisualStyleBackColor = True
         '
         'bRadioButton
@@ -140,7 +140,7 @@ Partial Class MainForm
         Me.bRadioButton.Name = "bRadioButton"
         Me.bRadioButton.Size = New System.Drawing.Size(76, 49)
         Me.bRadioButton.TabIndex = 10
-        Me.bRadioButton.Text = "B"
+        Me.bRadioButton.Text = "&B"
         Me.bRadioButton.UseVisualStyleBackColor = True
         '
         'cRadioButton
@@ -150,7 +150,7 @@ Partial Class MainForm
         Me.cRadioButton.Name = "cRadioButton"
         Me.cRadioButton.Size = New System.Drawing.Size(77, 49)
         Me.cRadioButton.TabIndex = 12
-        Me.cRadioButton.Text = "C"
+        Me.cRadioButton.Text = "&C"
         Me.cRadioButton.UseVisualStyleBackColor = True
         '
         'dRadioButton
@@ -160,7 +160,7 @@ Partial Class MainForm
         Me.dRadioButton.Name = "dRadioButton"
         Me.dRadioButton.Size = New System.Drawing.Size(80, 49)
         Me.dRadioButton.TabIndex = 14
-        Me.dRadioButton.Text = "D"
+        Me.dRadioButton.Text = "&D"
         Me.dRadioButton.UseVisualStyleBackColor = True
         '
         'previousButton
@@ -169,7 +169,7 @@ Partial Class MainForm
         Me.previousButton.Name = "previousButton"
         Me.previousButton.Size = New System.Drawing.Size(128, 36)
         Me.previousButton.TabIndex = 0
-        Me.previousButton.Text = "Previous Question"
+        Me.previousButton.Text = "&Previous Question"
         Me.previousButton.UseVisualStyleBackColor = True
         '
         'nextButton
@@ -178,7 +178,7 @@ Partial Class MainForm
         Me.nextButton.Name = "nextButton"
         Me.nextButton.Size = New System.Drawing.Size(128, 36)
         Me.nextButton.TabIndex = 1
-        Me.nextButton.Text = "Next Question"
+        Me.nextButton.Text = "&Next Question"
         Me.nextButton.UseVisualStyleBackColor = True
         '
         'submitButton
@@ -187,7 +187,7 @@ Partial Class MainForm
         Me.submitButton.Name = "submitButton"
         Me.submitButton.Size = New System.Drawing.Size(128, 36)
         Me.submitButton.TabIndex = 2
-        Me.submitButton.Text = "Submit Answer"
+        Me.submitButton.Text = "&Submit Answer"
         Me.submitButton.UseVisualStyleBackColor = True
         '
         'changeButton
@@ -196,7 +196,7 @@ Partial Class MainForm
         Me.changeButton.Name = "changeButton"
         Me.changeButton.Size = New System.Drawing.Size(128, 36)
         Me.changeButton.TabIndex = 3
-        Me.changeButton.Text = "Change Answer"
+        Me.changeButton.Text = "&Change Answer"
         Me.changeButton.UseVisualStyleBackColor = True
         '
         'incorrectButton
@@ -205,7 +205,7 @@ Partial Class MainForm
         Me.incorrectButton.Name = "incorrectButton"
         Me.incorrectButton.Size = New System.Drawing.Size(128, 36)
         Me.incorrectButton.TabIndex = 4
-        Me.incorrectButton.Text = "Number Incorrect"
+        Me.incorrectButton.Text = "&Number Incorrect"
         Me.incorrectButton.UseVisualStyleBackColor = True
         '
         'exitButton
@@ -214,7 +214,7 @@ Partial Class MainForm
         Me.exitButton.Name = "exitButton"
         Me.exitButton.Size = New System.Drawing.Size(128, 36)
         Me.exitButton.TabIndex = 5
-        Me.exitButton.Text = "Exit"
+        Me.exitButton.Text = "&Exit"
         Me.exitButton.UseVisualStyleBackColor = True
         '
         'TblGameTableAdapter

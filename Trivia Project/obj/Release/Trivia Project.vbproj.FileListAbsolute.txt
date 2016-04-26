@@ -1,0 +1,11 @@
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\bin\Release\Trivia.accdb
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\bin\Release\Trivia Project.exe.config
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\bin\Release\Trivia Project.exe
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\bin\Release\Trivia Project.pdb
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\bin\Release\Trivia Project.xml
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\obj\Release\Trivia_Project.MainForm.resources
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\obj\Release\Trivia_Project.Resources.resources
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\obj\Release\Trivia Project.vbproj.GenerateResource.Cache
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\obj\Release\Trivia Project.exe
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\obj\Release\Trivia Project.xml
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\obj\Release\Trivia Project.pdb
