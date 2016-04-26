@@ -1037,12 +1037,12 @@ Namespace TriviaDataSetTableAdapters
          Global.System.ComponentModel.DataObjectMethodAttribute(Global.System.ComponentModel.DataObjectMethodType.Insert, true)>  _
         Public Overloads Overridable Function Insert(ByVal Question As String, ByVal AnswerA As String, ByVal AnswerB As String, ByVal AnswerC As String, ByVal AnswerD As String, ByVal CorrectAnswer As String) As Integer
             If (Question Is Nothing) Then
-                Throw New Global.System.ArgumentNullException("Question")
+                Me.Adapter.InsertCommand.Parameters(0).Value = Global.System.DBNull.Value
             Else
                 Me.Adapter.InsertCommand.Parameters(0).Value = CType(Question,String)
             End If
             If (AnswerA Is Nothing) Then
-                Throw New Global.System.ArgumentNullException("AnswerA")
+                Me.Adapter.InsertCommand.Parameters(1).Value = Global.System.DBNull.Value
             Else
                 Me.Adapter.InsertCommand.Parameters(1).Value = CType(AnswerA,String)
             End If

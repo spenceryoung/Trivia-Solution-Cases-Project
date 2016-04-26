@@ -22,3 +22,15 @@ C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia Solution-Cases Pro
 C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia Solution-Cases Project\Trivia Project\obj\Debug\Trivia_Project.MainForm.resources
 C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia Solution-Cases Project\Trivia Project\obj\Debug\Trivia_Project.Resources.resources
 C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia Solution-Cases Project\Trivia Project\obj\Debug\Trivia Project.vbproj.GenerateResource.Cache
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\bin\Debug\Trivia Project.exe.config
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\obj\Debug\Trivia Project.exe
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\obj\Debug\Trivia Project.xml
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\obj\Debug\Trivia Project.pdb
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\bin\Debug\Trivia.accdb
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\bin\Debug\Trivia Project.exe
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\bin\Debug\Trivia Project.pdb
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\bin\Debug\Trivia Project.xml
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\obj\Debug\Trivia Project.vbprojResolveAssemblyReference.cache
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\obj\Debug\Trivia_Project.MainForm.resources
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\obj\Debug\Trivia_Project.Resources.resources
+C:\Users\spencer\Documents\Visual Studio 2015\Projects\Trivia-Solution-Cases-Project\Trivia Project\obj\Debug\Trivia Project.vbproj.GenerateResource.Cache

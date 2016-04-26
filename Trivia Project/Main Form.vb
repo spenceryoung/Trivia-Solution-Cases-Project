@@ -9,17 +9,13 @@ Option Strict On
 Option Infer Off
 
 Public Class MainForm
-    Private Sub exitButton_Click(sender As Object, e As EventArgs) Handles exitButton.Click
-        Me.Close()
-    End Sub
-
     Private Sub MainForm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         'TODO: This line of code loads data into the 'TriviaDataSet.tblGame' table. You can move, or remove it, as needed.
         Me.TblGameTableAdapter.Fill(Me.TriviaDataSet.tblGame)
 
     End Sub
 
-    Private Sub submitButton_Click(sender As Object, e As EventArgs) Handles submitButton.Click
+    Private Sub submitButton_Click(sender As Object, e As EventArgs)
         ' determines whether the user's answer is correct
         ' and the number of incorrect answers
 
@@ -56,5 +52,13 @@ Public Class MainForm
                             MessageBoxButtons.OK,
                             MessageBoxIcon.Information)
         End If
+    End Sub
+
+    Private Sub exitButton_Click(sender As Object, e As EventArgs)
+        Me.Close()
+    End Sub
+
+    Private Sub TblGameBindingSource_CurrentChanged(sender As Object, e As EventArgs)
+
     End Sub
 End Class
